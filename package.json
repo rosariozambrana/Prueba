@@ -1,0 +1,12 @@
+{
+  "name": "prueba-ci-cd-monitoreo",
+  "version": "1.0.0",
+  "description": "Practica para explicar monitoreo y analisis de pipelines en CI/CD con GitHub Actions",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "test": "node test/math.test.js",
+    "demo": "node src/math.js"
+  }
+}
+
